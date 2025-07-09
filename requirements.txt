@@ -1,0 +1,6 @@
+requests
+fake-useragent
+colorama
+pynacl
+base58
+urllib3
